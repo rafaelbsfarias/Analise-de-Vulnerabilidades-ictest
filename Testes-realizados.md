@@ -92,15 +92,17 @@ As atualizações funcionam perfeitamente
 
 Testes realizados: alterar status do caso de teste, modificar o conteúdo do caso de teste.
 
+### Exclusão de Caso de Teste:
+Um usuário consegue apagar casos de teste de outro projeto, no qual, ele não faz parte.
+
+login > Projetos, seleciona qualquer projeto na lista > clica em qualquer caso de teste do projeto > no canto superior esquerdo clica no simbolo de lixeira.
+
 ### Adição/exclusão de Membro ao Projeto:
 
 Ações funcionando perfeitamente
 
 ## 3.2 Testes de Usabilidade
 ### Navegação pelo Sistema:
-Um usuário consegue apagar casos de teste de outro projeto, no qual, ele não faz parte.
-
-login > Projetos, seleciona qualquer projeto na lista > clica em qualquer caso de teste do projeto > no canto superior esquerdo clica no simbolo de lixeira.
 
 Não foi localizado uma forma de excluir um projeto.
 
